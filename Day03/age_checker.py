@@ -5,7 +5,7 @@ if age < 12:
 elif age < 0:
     print("Invalid age!")
 elif age < 20:
-    print("You are a tenager")
+    print("You are a tennager")
 elif age < 40:
     print("You are an adult")
 elif age < 60:
