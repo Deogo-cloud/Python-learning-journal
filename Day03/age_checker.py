@@ -10,7 +10,7 @@ elif age < 20:
 elif age < 40:
     print("You are an adult")
 elif age < 60:
-    print("You are middle age")
+    print("You are middle-age")
 elif age < 140:
     print("You are old")
 else:
