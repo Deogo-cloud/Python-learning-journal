@@ -3,7 +3,7 @@ password = "deogo123"
 login_username = input("Enter username:")
 login_password = input("Enter password:")
 if login_username == username and login_password == password:
-    print("Login sucesssful!")
+    print("Login sucessful!")
 else:
     print("Login failed!")
 age = int(input("enter your age:"))
