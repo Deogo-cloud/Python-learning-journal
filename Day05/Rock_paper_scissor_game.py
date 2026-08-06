@@ -6,13 +6,13 @@ paper = 3
 
 while True:
     ai = random.randint(1, 3)
-    player = int(input("0.exit 1.rock 2.scissor 3.paper: "))
+    player = int(input("0.exit 1.rock 2.scissors 3.paper: "))
 
     if player == 0:
         print("Game Over")
         break
     elif player not in [1, 2, 3]:
-        print("Please choose valid number")
+        print("Please choose a valid number")
         continue
 
     # AI chooses Rock (1)
