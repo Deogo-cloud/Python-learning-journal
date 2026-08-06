@@ -1,7 +1,7 @@
 import random
 
 rock = 1
-scissor = 2
+scissors = 2
 paper = 3
 
 while True:
